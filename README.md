@@ -2,7 +2,7 @@
 
 Backend: Nestjs, Python
 
-Frontend: Reactjs 
+Frontend: Reactjs, Ant Design, Tailwind
 
 Lang Graph
 
