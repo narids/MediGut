@@ -10,5 +10,4 @@ DB: PostGreSQL, FAISS
 
 ORM: prisma
 
-
-
+Caching: Redis, React Query
